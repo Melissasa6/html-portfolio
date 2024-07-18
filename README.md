@@ -1,2 +1,2 @@
 # html-portfolio
-Exercises from Udemy  FEcCourse
+Exercises from Udemy  FE Course
